@@ -1,2 +1,2 @@
-# hello-php
-just a sample small code in php
+# Hello-PHP
+Just a sample small code in php
